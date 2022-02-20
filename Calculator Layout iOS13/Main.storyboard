@@ -224,9 +224,9 @@
                         <viewLayoutGuide key="safeArea" id="Ocv-dr-WMp"/>
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="pVp-Cf-18G" firstAttribute="leading" secondItem="cux-nb-tfI" secondAttribute="leading" id="VEq-y9-yCz"/>
+                            <constraint firstItem="pVp-Cf-18G" firstAttribute="leading" secondItem="Ocv-dr-WMp" secondAttribute="leading" id="VEq-y9-yCz"/>
                             <constraint firstItem="pVp-Cf-18G" firstAttribute="top" secondItem="cux-nb-tfI" secondAttribute="top" id="iSo-sh-JH2"/>
-                            <constraint firstAttribute="trailing" secondItem="pVp-Cf-18G" secondAttribute="trailing" id="nXx-Bh-PgE"/>
+                            <constraint firstItem="Ocv-dr-WMp" firstAttribute="trailing" secondItem="pVp-Cf-18G" secondAttribute="trailing" id="nXx-Bh-PgE"/>
                             <constraint firstItem="Ocv-dr-WMp" firstAttribute="bottom" secondItem="pVp-Cf-18G" secondAttribute="bottom" id="v64-BV-L7l"/>
                         </constraints>
                     </view>
